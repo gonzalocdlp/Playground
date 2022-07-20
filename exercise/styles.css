@@ -1,0 +1,15 @@
+section{
+    float:left;
+    width:33.3%;
+    background:yellow;
+    height:300px;
+}
+header, footer{
+    float:none;
+    margin-left:650px;
+    
+}
+#section2{
+    background:blue;
+    
+}
